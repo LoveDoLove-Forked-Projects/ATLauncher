@@ -8,5 +8,6 @@ This changelog only contains the changes that are unreleased. For changes for in
 ### New Features
 
 ### Fixes
+- Issue with some CurseForge files not being downloadable but still available
 
 ### Misc
